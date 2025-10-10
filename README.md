@@ -1,5 +1,5 @@
 # 💫 About Me:
-[...]
+Computational Social Science student passionate about using data science and machine learning to tackle social challenges.
 
 
 ## 🌐 Socials:
