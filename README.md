@@ -1,6 +1,6 @@
 # About Me:
-Final-year Computational Social Science student (University of Amsterdam) specialising in applying data science to
-complex social and environmental challenges
+MSc Social Data Science student (University of Oxford) specialising in applying data science to
+complex social and environmental challenges.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilian-jw-koch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maximilian.koch@student.uva.nl) 
